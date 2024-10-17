@@ -22,3 +22,4 @@ dependencyResolutionManagement {
 rootProject.name = "Jetpack_Compose_Project_UseCase"
 include(":1usecasemeditation")
 include(":2usecaseinstagram")
+include(":3usecasebices")
